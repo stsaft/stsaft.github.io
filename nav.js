@@ -12,7 +12,7 @@ Institute of Digital Communications<br>\
 School of Engineering<br>\
 University of Edinburgh<br>\
 Rm 2.06, Alexander Graham Bell<br>\
-King’s Buildings <br>\
+King’s Buildings<br>\
 EH9 3JL, Edinburgh, Scotland, UK<br>\
 +44 (0) 131-650-5796<br>\ 
 </li>\
