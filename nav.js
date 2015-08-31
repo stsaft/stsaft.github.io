@@ -8,7 +8,6 @@ document.write('\
               <li><a href="http://prian.lab.imtlucca.it">PRIAn Group</a></li>\
 <li><img style="width: 120px; height: 165px;" src="images/picture.jpg" alt="max" align="middle"></li>\
 <li>Sotirios A Tsaftaris</li>\
-<br>\
 Institute of Digital Communications<br>\
 School of Engineering<br>\
 University of Edinburgh<br>\
