@@ -11,7 +11,6 @@ document.write('\
 Institute of Digital Communications<br>\
 School of Engineering<br>\
 University of Edinburgh<br>\
-Rm 2.06, Alexander Graham Bell<br>\
 </li>\
 </ul></div>\
 ');
