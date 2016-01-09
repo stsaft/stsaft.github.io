@@ -7,5 +7,14 @@ document.write('\
               <li><a href="Publications.html">Publications</a></li>\
               <li><a href="http://prian.imtlucca.it">PRIAn Group</a></li>\
 <li><img style="width: 120px; height: 165px;" src="images/picture.jpg" alt="max" align="middle"></li>\
+<li>Institute of Digital Communications\
+<BR>School of Engineering \
+<BR>University of Edinburgh \
+<BR>Rm 2.06, Alexander Graham Bell \
+<BR>King’s Buildings \
+<BR>EH9 3JL, Edinburgh, UK<BR>\
++44 (0)131 650 5796 \
+<BR>S.Tsaftaris@ed.ac.uk\
+</li>\
 </ul></div>\
 ');
