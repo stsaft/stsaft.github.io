@@ -10,10 +10,11 @@ document.write('\
 <li>Institute of Digital Communications\
 <BR>School of Engineering \
 <BR>University of Edinburgh \
-<BR>Rm 2.06, Alexander Graham Bell \
-<BR>King’s Buildings \
-<BR>EH9 3JL, Edinburgh, UK<BR>\
-+44 (0)131 650 5796 \
+<BR>Rm 2.06 AGB \
+<BR>King’s Buildings, Thomas Bayes Road \
+<BR>Edinburgh\
+<BR>EH9 3FG, UK\
+<BR>+44 (0)131 650 5796 \
 <BR>S.Tsaftaris@ed.ac.uk\
 </li>\
 </ul></div>\
