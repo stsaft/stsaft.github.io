@@ -256,7 +256,7 @@ input.button {
 	margin: 5px auto;
 	height: 100px;
 	width: 850px;
-	background: #fff url(header-photo.jpg) no-repeat center center;
+	background: #fff url(header-photo.png) no-repeat center center;
 }
 #header-photo h1#logo-text a {
 	position: absolute;
