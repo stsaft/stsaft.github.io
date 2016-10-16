@@ -263,7 +263,7 @@ input.button {
 	margin: 0; padding: 0;
 	font: bold 48px 'Trebuchet MS', Arial, Sans-serif;
 	letter-spacing: -1px;
-	color: #fff;
+	color: #626B64;
 	text-transform: none;
 	text-decoration: none;
 	border: none;
@@ -277,7 +277,7 @@ input.button {
 	margin: 0; padding: 0;
 	font: bold 14px 'Trebuchet MS', Arial, Sans-serif;
 	text-transform: none;
-	color: #000000;
+	color: #3A8AAA;
 	
 	/* change the values of top and left to adjust the position of the slogan*/
 	top: 80px; left: 35px;		
