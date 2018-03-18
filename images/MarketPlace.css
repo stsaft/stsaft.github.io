@@ -438,6 +438,21 @@ ul.sidemenu li a:hover {
 	font-size: .95em;	
 	padding-top: 0;
 }
+
+dl.event {
+	margin: 0 0 0 2em;
+	padding: 0;
+}
+
+.event dt {
+	margin: 0.3em 0 0 0;
+	font-style: italic;
+}
+
+.event dd {
+	margin: 0 0.5em 0.3em 1em;
+	text-align: justify;
+}
 .post-footer {
 	background: #F5F5F5;
 	padding: 5px; margin: 20px 10px 0 10px;	
