@@ -20,5 +20,6 @@ document.write('\
 <BR>S.Tsaftaris@ed.ac.uk\
 </li>\
 <li><img style="width: 140px" src="images/UoE.png" alt="max" align="middle"></li>\
+<li><img style="width: 140px" src="https://www.raeng.org.uk/RAE/resources/img/logo.svg" alt="max" align="middle"></li>\
 </ul></div>\
 ');
